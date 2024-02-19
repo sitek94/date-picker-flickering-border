@@ -1,7 +1,11 @@
 html {
   font-size: 20px;
-  display: grid;
-  place-content: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
 }
 
 .MuiTextField-root {

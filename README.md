@@ -1,11 +1,8 @@
-# Minimal React Starter
+# Date Picker Flickering Issue Repro
 
 ## How to use
 
 ```shell
-# Clone the repository
-npx degit sitek94/minimal-react <project-name>
-
 # Install dependencies (or npm, yarn, pnpm)
 bun install
 
