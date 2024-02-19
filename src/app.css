@@ -1,0 +1,15 @@
+html {
+  font-size: 20px;
+  display: grid;
+  place-content: center;
+}
+
+.MuiTextField-root {
+}
+
+.MuiInput-underline {
+  &:before,
+  &:after {
+    border-bottom-width: 4px !important;
+  }
+}
